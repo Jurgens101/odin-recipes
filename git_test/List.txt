@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html>
+        <head>
+            <meta charset="UTF-8">
+            <title>Lista</title>
+        </head>
+        
+        <body>
+                <Strong>Pswnia</Strong>
+                <p></p>
+            <ul>
+                <li>tiri</li>
+                <li>pswmi</li> 
+                <li>gala</li>
+                <li>bananes</li>   
+                <li>sokolata</li>
+            </ul>
+            <p></p>
+            <strong>Things to do today</strong>
+            <p></p>
+            <ol>
+                <li>pay bills</li>
+                <li>walk the dog</li>
+                <li>water the trees</li>
+                <li>take a ashower</li>
+                <li>go to bed</li>
+            </ol>
+            <p></p>
+                <em>Trips</em>
+                <p></p>
+                <ul>
+                    <li>Egypt</li>
+                    <li>USA</li>
+                    <li>Spain</li>
+                    <li>Italy</li>
+                    <li>Bulgaria</li>
+                </ul>
+                <p></p>
+                <em>Top 5 Video Games</em>
+                <p></p>
+                <ol>
+                    <li>Red Dead Redemption</li>
+                    <li>Cyberpunk</li>
+                    <li>The Witcher 3</li>
+                    <li>Linage 2</li>
+                    <li>Dota 2</li>
+                </ol>
+                <p></p>
+        </body>
+
+
+</html>

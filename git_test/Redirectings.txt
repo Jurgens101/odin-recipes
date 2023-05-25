@@ -1,0 +1,41 @@
+
+
+
+<--  MAIN SITE  -->
+
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <title>Title</title>
+    </head>
+    <body>
+
+        <strong>Redirecting Links</strong>
+       
+        <h1>Homepage</h1>
+	<a href="https://www.theodinproject.com/about">click me</a>
+
+	<a href="pages/about.html">About</a>
+
+    <p></p>
+    <img src="https://www.theodinproject.com/mstile-310x310.png">
+
+    
+    </body>
+</html>
+
+<-- ABOUT SITE -->
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <title>Odin Links and Images</title>
+  </head>
+
+  <body>
+    <h1>About Page</h1>
+    <img src="../images/dog.jpg">
+  </body>
+</html>
