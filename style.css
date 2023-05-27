@@ -1,0 +1,52 @@
+
+
+
+img{
+    max-width: 600px;
+    max-height: 600px;
+}
+
+ul{
+    text-align: center;
+    list-style-position: inside;
+}
+
+ol{
+    text-align: center;
+    list-style-position:inside;
+}
+body{
+    height: auto !important;
+    min-height: 100%;
+    image-rendering: optimizeSpeed;
+    margin: 0;
+    text-align:center;
+    image-resolution:inherit;
+}
+
+.header1{
+    background-color: bisque; color:black;
+   font-size: 30px; font-family: "Lucida Sans"; 
+}
+
+.header2{
+    background-color: powderblue;
+    font-size: 20px;
+    font-family: "Gill Sans"; 
+    
+}
+
+.header3{
+    font-size: 20px; font-family: "Courier New"; 
+    background-color: rgb(183, 176, 176);
+}
+
+.header4{
+    font-size: 20px; font-family: Verdana; 
+    background-color: khaki;
+}
+
+.header5{
+    font-size: 20px; font-family: Helvetica, sans-serif;
+    background-color: rgb(182, 100, 253);
+}
