@@ -1,6 +1,4 @@
 
-
-
 img{
     max-width: 600px;
     max-height: 600px;
@@ -16,17 +14,14 @@ ol{
     list-style-position:inside;
 }
 body{
-    height: auto !important;
-    min-height: 100%;
-    image-rendering: optimizeSpeed;
     margin: 0;
     text-align:center;
     image-resolution:inherit;
 }
 
 .header1{
-    background-color: bisque; color:black;
-   font-size: 30px; font-family: "Lucida Sans"; 
+    background-color: bisque;
+   font-size: 20px; font-family: "Lucida Sans"; 
 }
 
 .header2{
