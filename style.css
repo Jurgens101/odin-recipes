@@ -2,11 +2,7 @@
 img{
     max-width: 600px;
     max-height: 600px;
-}
-
-html{
-    height: 100%;
-    min-height: 100vh;
+    
 }
 
 ul{ 
@@ -30,10 +26,10 @@ body{
 .header1{
     font-size: 30px; font-family: "Lucida Sans"; 
     background-color: bisque;
-    padding-bottom: 24%;
-    
-    padding-top: 9%;
-    margin-top: -10%;
+    margin-bottom: -20%;
+    padding-bottom: 25%;
+    padding-top: 1%;
+    margin-top: -2%;
 }
 .header2{
     background-color: aqua; overflow: visible;
@@ -65,4 +61,3 @@ body{
     margin-top: -4%;
     background-color: blueviolet;
 }
-
