@@ -9,13 +9,15 @@ html{
     min-height: 100vh;
 }
 
-ul{
-    text-align: center;
+ul{ 
+    display: inline-block; 
+	text-align: left; 
     list-style-position: inside;
 }
 
 ol{
-    text-align: center;
+    display: inline-block; 
+	text-align: left; 
     list-style-position:inside;
 }
 body{
@@ -28,7 +30,8 @@ body{
 .header1{
     font-size: 30px; font-family: "Lucida Sans"; 
     background-color: bisque;
-    padding-bottom: 14%;
+    padding-bottom: 24%;
+    
     padding-top: 9%;
     margin-top: -10%;
 }
@@ -62,3 +65,4 @@ body{
     margin-top: -4%;
     background-color: blueviolet;
 }
+
