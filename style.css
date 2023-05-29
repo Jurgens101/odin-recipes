@@ -17,18 +17,19 @@ ol{
     list-style-position:inside;
 }
 body{
-    height:100%; width: 100%; min-height: 100%;
-    margin-left: 0%;
+   
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0;
+    margin-bottom: auto;
     text-align:center;
 }
 
 .header1{
     font-size: 30px; font-family: "Lucida Sans"; 
     background-color: bisque;
-    margin-bottom: -1%;
-    padding-bottom: 25%;
-    padding-top: 1%;
-    margin-top: -2%;
+    padding-block: 23vh;
+    
 }
 .header2{
     background-color: aqua; overflow: visible;
