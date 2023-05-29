@@ -5,6 +5,10 @@ img{
     
 }
 
+div{
+    color:black;
+}
+
 ul{ 
     display: inline-block; 
 	text-align: left; 
@@ -26,12 +30,11 @@ body{
 }
 
 button{
-    background-color:white;
-    color: black;
+    background-color: transparent;
     font-style: bold;
     font-size: 30px;
     border-radius: 10px;
-    border: 1px solid blue;
+    border: 2px solid rgb(0, 0, 0);
     width:auto;
     display: inline-block;
     text-decoration: none;
@@ -73,4 +76,8 @@ button{
     margin-top: -4%;
     background-color: blueviolet;
     margin-bottom: auto;
+}
+
+button a{
+    color: black; background:transparent;
 }
